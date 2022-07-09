@@ -2,7 +2,7 @@
 prettier-ignore
 
 build 
-```go build -o main.exe```
+```go build -o main.exe ./src```
 
 run 
 ```./main.exe```
